@@ -10,6 +10,8 @@
 ![snake gif](https://github.com/Abtin8/Abtin8/blob/output/github-snake-dark.svg)
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abtin_memari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abtinmemari25@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abtin_memari)
+<a href="https://t.me/abtin_m8"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" /></a>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abtinmemari25@gmail.com) 
 
 </div>
